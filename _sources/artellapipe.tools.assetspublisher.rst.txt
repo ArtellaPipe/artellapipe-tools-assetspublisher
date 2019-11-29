@@ -1,0 +1,10 @@
+artellapipe.tools.assetspublisher package
+=========================================
+
+Module contents
+---------------
+
+.. automodule:: artellapipe.tools.assetspublisher
+   :members:
+   :undoc-members:
+   :show-inheritance:
