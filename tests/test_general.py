@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 """
-Module that contains general tests for artellapipe-tools-assetsmanager
+Module that contains general tests for artellapipe-tools-assetspublisher
 """
 
 import pytest
 
-from artellapipe.tools.assetsmanager import __version__
+from artellapipe.tools.assetspublisher import __version__
 
 
 def test_version():
