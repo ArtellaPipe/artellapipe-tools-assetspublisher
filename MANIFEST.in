@@ -1,0 +1,2 @@
+include artellapipe/tools/assetspublisher/__logging__.ini
+include artellapipe/tools/assetspublisher/resources/images/*.*
